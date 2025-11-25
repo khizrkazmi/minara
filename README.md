@@ -4,7 +4,7 @@ Flutter app scaffolded for the Minara learning experience.
 
 ## Project layout
 
-A recommended folder tree for building out the Figma design (themes, icons, feature screens) is documented in [`docs/file_structure.md`](docs/file_structure.md). That guide now includes a step-by-step checklist (assets, theme, routing, Firebase layers) to keep implementation moving.
+A recommended folder tree for building out the Figma design (themes, icons, feature screens) is documented in [`docs/file_structure.md`](docs/file_structure.md).
 
 ## Getting Started
 
