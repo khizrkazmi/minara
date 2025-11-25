@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443992564565",
+    "project_id": "minara-8ee8c",
+    "storage_bucket": "minara-8ee8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443992564565:android:ff2c10acfd270208ffc5dc",
+        "android_client_info": {
+          "package_name": "com.example.pooper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3lb31BosQCnDAxnBJ_PB0nT-xlzEqHkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
