@@ -1,2 +1,0 @@
-Create a lib/theme/ folder with files for colors, text styles, and spacing. Expose them through a custom ThemeData extension so widgets stay consistent.
-Icons: Export your Figma icons as SVG (preferred) or PNG. Organize them under assets/icons/ and register the folder in pubspec.yaml. Use flutter_svg for SVG rendering, and create an AppIcons class that maps semantic names to asset paths instead of one file per icon.
