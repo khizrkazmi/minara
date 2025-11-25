@@ -1,6 +1,10 @@
-# pooper
+# Minara
 
-A new Flutter project.
+Flutter app scaffolded for the Minara learning experience.
+
+## Project layout
+
+A recommended folder tree for building out the Figma design (themes, icons, feature screens) is documented in [`docs/file_structure.md`](docs/file_structure.md). That guide now includes a step-by-step checklist (assets, theme, routing, Firebase layers) to keep implementation moving.
 
 ## Getting Started
 
@@ -14,4 +18,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# minara
